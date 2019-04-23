@@ -4,3 +4,4 @@ dev 提交
 master 提交 line 1
 dev1 提交第一行
 >>>>>>> dev1
+bug x修复 完成1
